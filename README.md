@@ -28,7 +28,7 @@ The code provided here can be used to:
 3. Average traffic volume plot and average delay plot
 
 ## Installation and use guidance
-1. For mac, navigate (`cd`) to the location you would like to copy the `FHWA-codesharing` package; for Windows, we recommend you to install [Anaconda](https://www.anaconda.com/download/#macos) `cd` through the terminal in the conda.
+1. For mac, navigate to the location you would like to copy the `FHWA-codesharing` package; for Windows, we recommend you to install [Anaconda](https://www.anaconda.com/download/#macos) through the terminal in the conda.
 
 2. Clone the `FHWA-codesharing` by typing the following code in terminal:
 
