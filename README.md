@@ -16,8 +16,8 @@ Four dataset covered
   1. Washington State Department of Transportation (WSDOT) loops: TRACFLOW
   2. Seattle Department of Transportation (SDOT) sensors: Sensys
 - for Travel Time
-  3. National Performance Management Research Data Set (NPMRDS)
-  4. Google API
+  1. National Performance Management Research Data Set (NPMRDS)
+  2. Google API
 
 ## Potential usage
 The code provided here can be used to:
