@@ -1,22 +1,23 @@
 # Performance data analysis
 
-**FHWA Project** *(University of Wahsington)*
+**FHWA Project** *(University of Washington)*
 
 ## What included in performance analysis
 The code included here is the performance analysis conducted in FHWA project.
 
 **Highlights:**
-- Loop data (traffic volume)
-- NPMRDS data (travel time)
+- Traffic Volume along Highway/Local St
+- Travel Time along Highway/Local St
+
 
 ## Data
-Two dataset covered
-1. Washington State Department of Transportation (WSDOT) loops
-2. National Performance Management Research Data Set (NPMRDS)
-
-The detailed data resources can be checked through the `url` below:
-https://tracflow.wsdot.wa.gov/
-https://npmrds.ritis.org/analytics/help/
+Four dataset covered
+- for traffic Volume
+  1. Washington State Department of Transportation (WSDOT) loops: TRACFLOW
+  2. Seattle Department of Transportation (SDOT) sensors: Sensys
+- for Travel Time
+  3. National Performance Management Research Data Set (NPMRDS)
+  4. Google API
 
 ## Potential usage
 The code provided here can be used to:
@@ -27,7 +28,7 @@ The code provided here can be used to:
 
 3. Average traffic volume plot and average delay plot
 
-## Installation and use guidance
+## Installation and user guidance
 1. For mac, navigate to the location you would like to copy the `FHWA-codesharing` package; for Windows, we recommend you to install [Anaconda](https://www.anaconda.com/download/#macos) through the terminal in the conda.
 
 2. Clone the `FHWA-codesharing` by typing the following code in terminal:
