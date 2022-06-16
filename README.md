@@ -1,6 +1,6 @@
 # FHWA Project Code Sharing
 
-*(Department of Civil and Environmental Engineering, University of Washington)*
+*(Department of Civil and Environmental Engineering, University of Washington)*\
 The project report can be found [here](https://www.fhwa.dot.gov/planning/tmip/publications/other_reports/alaskan_way_viaduct_replacement/)
 
 ## What is included in this repo
